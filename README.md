@@ -1,34 +1,24 @@
-<!--
-  🎯 Objetivo: Presentar quién eres, qué haces y cómo contactarte.
-  🕹️ Diviértete personalizándolo: cambia emojis, colores de badges,
-  o añade secciones según tus gustos.
--->
-
-# 👋 ¡Hola! Soy Enrique
-
-💻 **Programador Web** | 🎮 Gamer aficionado | 📰 Insaciable de novedades tech  
-🇪🇸 Vivo en Madrid, soñando con dominar el mundo… y el inglés.
+# <img width="60" height="60" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique.
 
 ---
 
-## 🚀 Acerca de mí
+## 🙂 About me
 
-- 💡 Me fascina aprender nuevas tecnologías y estar al día en programación.
-- 🎮 Amante de los videojuegos (¿Alguien dijo speedruns?).
-- 📚 Actualmente mejorando mi nivel de **inglés**: “No pain, no gain”.
-- 🎵 Mi playlist va de R&B y soul a country, metal y rock… ¡sin miedo al contraste!
+- 👩🏻‍💻 I'm trying to become a better developer every day, practicing and working hard.
+- 📚 Currently improving my English.
+- 🍃 I love chilling with a good book or getting into some video games in my free time.
 
 ---
 
-## 🔭 ¿En qué estoy trabajando?
+## 🎯 What about new projects?
 
-- 🌐 **[Mi sitio personal](https://tu-dominio.com)**: un rincón donde plasmo mis proyectos.
+- 🌐 **[My website](https://tu-dominio.com)**: a .
 - 🔧 **Stack**: HTML5, CSS3, JavaScript (ES6+), React, Node.js, Express, MongoDB.
 - 🤖 Explorando **IA y chatbots** para hacer la web más humana.
 
 ---
 
-## 🌱 Aprendiendo
+## ✍🏻 Aprendiendo
 
 - 📘 **TypeScript** con rigor militar.
 - 🛠️ **Docker** para contener cada bug como se merece.
@@ -48,9 +38,9 @@
 
 ## 📫 ¿Cómo contactarme?
 
-- 📧 Correo: [hola@enrique.dev](mailto:hola@enrique.dev)  
-- 🔗 LinkedIn: [enrique-prog](https://linkedin.com/in/enrique-prog)  
-- 🐦 Twitter: [@enrique_dev](https://twitter.com/enrique_dev)
+- 📧 Correo: [meidrals.desarrollo@gmail.com](mailto:meidrals.desarrollo@gmail.com)  
+- 🔗 LinkedIn: [enrique-prog](www.linkedin.com/in/enrique-madrid-lópez-696896182)  
+- 📱 Instagram: [@enrique_dev](https://twitter.com/enrique_dev)
 
 ---
 
@@ -62,6 +52,3 @@
 - 🔮 Tengo una visión de futuro: la web será cada vez más conversacional… y con menos bromas de “Hello World”.
 
 ---
-
-*Este README está diseñado para que digas: “¡Wow, este Enrique sí que va al grano!”*  
-_Si encuentras algún error (o typo en mi inglés), ¡avísame!_
