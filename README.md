@@ -4,9 +4,9 @@
 
 ### 🙂 About me
 
-- 👩🏻‍💻 I'm trying to become a better developer every day, practicing and working hard.
-- 📚 Currently improving my English.
-- 🍃 I love chilling with a good book or getting into some video games in my free time.
+- 👩🏻‍💻 I try to improve a little every day by building, learning, and staying curious.
+- 🏳️ Improving my English daily.
+- 🍃 In my free time, I enjoy chilling with a good book or diving into some video games.
 
 ![MeiDrals's Stats](https://github-readme-stats.vercel.app/api?username=MeiDrals&theme=react&show_icons=true&hide_border=true&count_private=true)
 
@@ -15,7 +15,8 @@
 ### 🎯 What about new projects?
 
 - 🔧 **Stack**: HTML5, CSS3, JavaScript (ES6+), PHP, MySQL, Java, C#.
-- 🔒 Pursuing personal development in **Cybersecurity** and **Cloud Computing**.
+- 💻 I'm currently honing my skills by **building web pages** and small **applications**.
+- 🧭 Keen to grow and learn more in the fields of **Cybersecurity** and **Cloud Computing**.
 
 ![MeiDrals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeiDrals&theme=react&hide_border=true)
 
@@ -24,7 +25,7 @@
 ### ✍🏻 Developing skills in...
 
 - 📘 **JavaScript/TypeScript**.
-- 🛠️ **Cloud Computing**.
+- 🏗️ **PHP**.
 - 🔒 **Cibersecurity**.
 
 ##
