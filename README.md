@@ -12,39 +12,39 @@
 
 ## 🎯 What about new projects?
 
-- 🌐 **[My website](https://tu-dominio.com)**: a .
-- 🔧 **Stack**: HTML5, CSS3, JavaScript (ES6+), React, Node.js, Express, MongoDB.
-- 🤖 Explorando **IA y chatbots** para hacer la web más humana.
+- 🌐 **[My website](https://tu-dominio.com)**:  .
+- 🔧 **Stack**: HTML5, CSS3, JavaScript (ES6+), PHP, Java, C#, MySQL.
+- 🔒 Pursuing personal development in **Cybersecurity** and **Cloud Computing**.
 
 ---
 
-## ✍🏻 Aprendiendo
+## ✍🏻 Developing skills in...
 
-- 📘 **TypeScript** con rigor militar.
-- 🛠️ **Docker** para contener cada bug como se merece.
-- ☁️ **DevOps**: CI/CD que no falle… a menos que sea intencionado.
+- 📘 **TypeScript**.
+- 🛠️ **Docker**.
+- ☁️ **DevOps**.
 
 ---
 
-## 🏆 Proyectos destacados
+## 🏆 Featured Projects
 
-| Proyecto       | Descripción breve                           | Demo / Repo                           |
+| Projects       | Brief description                           | Demo / Repo                           |
 | -------------- | ------------------------------------------- | ------------------------------------- |
-| **Portfolio**  | Showcase de mis trabajos más punteros.      | 🔗 https://github.com/enriqueprog/portfolio |
-| **GameHub**    | API REST para gestión de partidas online.   | 🔗 https://github.com/enriqueprog/gamehub  |
-| **ChatBot**    | Asistente IA para FAQs de e-commerce.       | 🔗 https://github.com/enriqueprog/chatbot  |
+| **Todo-App**   | Showcase de mis trabajos más punteros.      | 🔗 https://github.com/enriqueprog/portfolio |
+| **Poke-API**   | API REST para gestión de partidas online.   | 🔗 https://github.com/enriqueprog/gamehub   |
+| **ChatBot**    | Asistente IA para FAQs de e-commerce.       | 🔗 https://github.com/enriqueprog/chatbot   |
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to contact me
 
 - 📧 Correo: [meidrals.desarrollo@gmail.com](mailto:meidrals.desarrollo@gmail.com)  
 - 🔗 LinkedIn: [enrique-prog](www.linkedin.com/in/enrique-madrid-lópez-696896182)  
-- 📱 Instagram: [@enrique_dev](https://twitter.com/enrique_dev)
+- 📱 Instagram: [@enrique_dev](https://)
 
 ---
 
-## 💬 Curiosidades
+## 💬 Fun facts
 
 > “Si no rompes cosas, no estás innovando.” – Probablemente lo dijo un ingeniero frustrado 🤔
 
