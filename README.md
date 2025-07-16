@@ -1,4 +1,4 @@
-# <img width="60" height="60" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique.
+# <img width="50" height="50" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique.
 
 ---
 
@@ -32,14 +32,14 @@
 | -------------- | ------------------------------------------- | ------------------------------------- |
 | **Todo-App**   | Showcase de mis trabajos más punteros.      | 🔗 https://github.com/enriqueprog/portfolio |
 | **Poke-API**   | API REST para gestión de partidas online.   | 🔗 https://github.com/enriqueprog/gamehub   |
-| **ChatBot**    | Asistente IA para FAQs de e-commerce.       | 🔗 https://github.com/enriqueprog/chatbot   |
+| **Bibliotech** | Asistente IA para FAQs de e-commerce.       | 🔗 https://github.com/enriqueprog/chatbot   |
 
 ---
 
 ## 📫 How to contact me
 
-- 📧 Correo: [meidrals.desarrollo@gmail.com](mailto:meidrals.desarrollo@gmail.com)
-- 🔗 LinkedIn: [enrique-prog](https://www.linkedin.com/in/enrique-madrid-l%C3%B3pez-696896182/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-meidrals.desarrollo%40gmail.com-%23CE3C2F)](mailto:meidrals.desarrollo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique%20Madrid%20L%C3%B3pez-%230A66C2)](https://www.linkedin.com/in/enrique-madrid-lopez)
 
 ---
 
