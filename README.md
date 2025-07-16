@@ -55,3 +55,7 @@
 - 🔮 Tengo una visión de futuro: la web será cada vez más conversacional… y con menos bromas de “Hello World”.
 
 ---
+
+<p align="center">
+  <img src="https://github.com/MeiDrals/MeiDrals/blob/main/assets/wave-footer.svg" alt="wave header" />
+</p>
