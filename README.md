@@ -45,6 +45,6 @@
 ### 📫 How to contact me
 
 [![GMAIL](https://img.shields.io/badge/GMAIL-meidrals.desarrollo%40gmail.com-%23FFFFFF?labelColor=%23CE3C2F)](mailto:meidrals.desarrollo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique%20Madrid%20L%C3%B3pez-%23FFFFFF?labelColor=%230A66C2)](htt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique%20Madrid%20L%C3%B3pez-%23FFFFFF?labelColor=%230A66C2)](https://www.linkedin.com/in/enrique-madrid-l%C3%B3pez-696896182/)
 
 <img src="https://github.com/MeiDrals/MeiDrals/blob/main/assets/wave-footer.svg" alt="wave header" />
