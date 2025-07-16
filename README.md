@@ -38,9 +38,8 @@
 
 ## 📫 How to contact me
 
-- 📧 Correo: [meidrals.desarrollo@gmail.com](mailto:meidrals.desarrollo@gmail.com)  
-- 🔗 LinkedIn: [enrique-prog](www.linkedin.com/in/enrique-madrid-lópez-696896182)  
-- 📱 Instagram: [@enrique_dev](https://)
+- 📧 Correo: [meidrals.desarrollo@gmail.com](mailto:meidrals.desarrollo@gmail.com)
+- 🔗 LinkedIn: [enrique-prog](https://www.linkedin.com/in/enrique-madrid-l%C3%B3pez-696896182/)
 
 ---
 
