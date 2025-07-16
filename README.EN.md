@@ -2,9 +2,8 @@
 
 # <img width="50" height="50" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique. Welcome to my GitHub!
 
-<p align="right">
-   🇺🇸 English | [🇪🇸 Español](README.ES.md)
-</p>
+[![Idioma: Español](https://img.shields.io/badge/🌐%20Idioma-Español-red?style=for-the-badge)](README.md)
+[![Language: English](https://img.shields.io/badge/🌐%20Language-English-blue?style=for-the-badge)](readme.en.md)
 
 ### 🙂 About me
 
