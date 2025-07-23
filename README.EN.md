@@ -1,6 +1,6 @@
 <img src="https://github.com/MeiDrals/MeiDrals/blob/main/assets/wave-header.svg" alt="wave header" />
 
-# <img width="45" height="45" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique. Welcome to my GitHub!
+# <img width="50" height="50" alt="Waving Hand" src="https://github.com/user-attachments/assets/3d7cdc96-cd9a-4c4f-acf5-6cadbf133589" /> Hi! I'm Enrique. Welcome to my GitHub!
 
 [![Idioma: Español](https://img.shields.io/badge/Idioma-Español_🇪🇸%20-red?style=for-the-badge)](README.md)
 [![Language: English](https://img.shields.io/badge/Language-English_🇬🇧%20-blue?style=for-the-badge)](README.EN.md)
