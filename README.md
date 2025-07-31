@@ -11,7 +11,9 @@
 - 📚 Estoy mejorando mi inglés a diario.
 - 🍃 En mi tiempo libre disfruto leyendo un buen libro o sumergiéndome en videojuegos.
 
-![MeiDrals's Stats](https://github-readme-stats.vercel.app/api?username=MeiDrals&theme=react&show_icons=true&hide_border=true&count_private=true)
+[![MeiDrals's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiDrals)](https://github.com/MeiDrals/github-readme-stats?theme=react)
+
+
 
 ##
 
@@ -41,7 +43,7 @@
 | **Poke-API**    | API RESTful simple y divertida sobre Pokémon.      | 🔗 Próximamente...                 |
 | **Bibliotech**  | Aplicación completa para gestionar libros, usuarios y préstamos. | 🔗 Próximamente...   |
 
-![MeiDrals's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals&theme=react&show_icons=true&hide_border=true&layout=compact)
+[![MeiDrals's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals)](https://github.com/MeiDrals/github-readme-stats?theme=react)
 
 ##
 
