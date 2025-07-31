@@ -11,7 +11,7 @@
 - 📚 Estoy mejorando mi inglés a diario.
 - 🍃 En mi tiempo libre disfruto leyendo un buen libro o sumergiéndome en videojuegos.
 
-[![MeiDrals's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiDrals?theme=algolia)](https://github.com/MeiDrals/github-readme-stats)
+[![MeiDrals's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiDrals&theme=react)](https://github.com/MeiDrals/github-readme-stats)
 
 
 
@@ -23,7 +23,7 @@
 - 💻 Actualmente estoy puliendo mis habilidades desarrollando **páginas web** y pequeñas **aplicaciones**.
 - 🧭 Con muchas ganas de seguir aprendiendo más sobre **Ciberseguridad** y **Computación en la Nube**.
 
-[![MeiDrals's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeiDrals&repo=Todo-App)](https://github.com/MeiDrals/Todo-App)
+[![MeiDrals's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeiDrals&repo=Todo-App&theme=react)](https://github.com/MeiDrals/Todo-App)
 
 ##
 
@@ -43,13 +43,13 @@
 | **Poke-API**    | API RESTful simple y divertida sobre Pokémon.      | 🔗 Próximamente...                 |
 | **Bibliotech**  | Aplicación completa para gestionar libros, usuarios y préstamos. | 🔗 Próximamente...   |
 
-[![MeiDrals's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals?theme=algolia)](https://github.com/MeiDrals/github-readme-stats)
+[![MeiDrals's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals&theme=react)](https://github.com/MeiDrals/github-readme-stats)
 
 ##
 
 ### 📫 ¿Cómo contactarme?
 
-[![GMAIL](https://img.shields.io/badge/Email-meidrals.desarrollo@gmail.com-%23FFFFFF?labelColor=%23CE3C2F)](mailto:meidrals.desarrollo@gmail.com)
+[![EMAIL](https://img.shields.io/badge/Email-meidrals.desarrollo@gmail.com-%23FFFFFF?labelColor=%23CE3C2F)](mailto:meidrals.desarrollo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique%20Madrid%20L%C3%B3pez-%23FFFFFF?labelColor=%230A66C2)](https://www.linkedin.com/in/enrique-madrid-l%C3%B3pez-696896182/)
 
 <img src="https://github.com/MeiDrals/MeiDrals/blob/main/assets/wave-footer.svg" alt="wave header" />
