@@ -39,7 +39,7 @@
 
 | Proyectos       | Descripción breve                                  | Demo / Repo                        |
 | --------------- | -------------------------------------------------- | ---------------------------------- |
-| **Todo-App**    | Aplicación de lista de tareas personales.          | 🔗 Próximamente...                 |
+| **Todo-App**    | Aplicación de lista de tareas personales.          | [🔗](https://github.com/MeiDrals/Todo-App.git)                 |
 | **Poke-API**    | API RESTful simple y divertida sobre Pokémon.      | 🔗 Próximamente...                 |
 | **Bibliotech**  | Aplicación completa para gestionar libros, usuarios y préstamos. | 🔗 Próximamente...   |
 
