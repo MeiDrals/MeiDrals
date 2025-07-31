@@ -11,7 +11,7 @@
 - 📚 Estoy mejorando mi inglés a diario.
 - 🍃 En mi tiempo libre disfruto leyendo un buen libro o sumergiéndome en videojuegos.
 
-[![MeiDrals's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiDrals)](https://github.com/MeiDrals/github-readme-stats?theme=react)
+[![MeiDrals's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiDrals?theme=algolia)](https://github.com/MeiDrals/github-readme-stats)
 
 
 
@@ -23,7 +23,7 @@
 - 💻 Actualmente estoy puliendo mis habilidades desarrollando **páginas web** y pequeñas **aplicaciones**.
 - 🧭 Con muchas ganas de seguir aprendiendo más sobre **Ciberseguridad** y **Computación en la Nube**.
 
-![MeiDrals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeiDrals&theme=react&hide_border=true)
+[![MeiDrals's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeiDrals&repo=Todo-App)](https://github.com/MeiDrals/Todo-App)
 
 ##
 
@@ -43,7 +43,7 @@
 | **Poke-API**    | API RESTful simple y divertida sobre Pokémon.      | 🔗 Próximamente...                 |
 | **Bibliotech**  | Aplicación completa para gestionar libros, usuarios y préstamos. | 🔗 Próximamente...   |
 
-[![MeiDrals's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals)](https://github.com/MeiDrals/github-readme-stats?theme=react)
+[![MeiDrals's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiDrals?theme=algolia)](https://github.com/MeiDrals/github-readme-stats)
 
 ##
 
