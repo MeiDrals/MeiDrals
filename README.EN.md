@@ -37,7 +37,7 @@
 
 | Projects       | Brief description                           | Demo / Repo                           |
 | -------------- | ------------------------------------------- | ------------------------------------- |
-| **Todo-App**   | A personal task list application I built.   | https://github.com/MeiDrals/Todo-App.git |
+| **Todo-App**   | A personal task list application I built.   | [Demo in Render](https://todo-app-q1h2.onrender.com) / [Repository](https://github.com/MeiDrals/Todo-App.git) |
 | **Poke-API**   | A simple and fun RESTful API about Pokémon. | 🔗 Coming soon...                    |
 | **Bibliotech** | A complete application to manage books, users, loans. | 🔗 Coming soon...          |
 
